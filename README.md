@@ -1,2 +1,2 @@
 # frontend
-Frontend
+Frontend written in React.
